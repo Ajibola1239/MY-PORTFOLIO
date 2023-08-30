@@ -1,0 +1,269 @@
+.navbar{
+    background:rgb(11, 11, 102) ;
+    margin-top: -29px;
+    height: 100px;
+    width: 100%;
+}
+
+.logo{
+    margin-left: 100px;
+    margin-top: 30px;
+    font-weight: bolder;
+    font-size: x-large;
+    padding-top: 40px;
+}
+    .head{
+    display: flex;
+    gap: 40px;
+    margin-top: -40px;
+    margin-left: 500px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.facebook{
+    margin-left: 1140;
+    margin-top: -35px;
+}
+.instagram{
+    margin-left: 1180px;
+    margin-top: -20px;
+}
+.twitter{
+    margin-left: 1220px;
+    margin-top: -20px;
+}.youtube{
+    margin-left: 1260px;
+    margin-top: -20px;
+}
+.boat{
+    background:  rgb(244, 250, 252);
+    height: 500px;
+    margin-top: -180px;
+}
+.text-one{
+    margin-top: 160px;
+    padding-top: 100px;
+    margin-left: 60px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.text-two{
+    margin-left: 60px;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: sans-serif;
+}
+.text-three{
+    margin-left: 60px;
+    font-weight: bolder;
+    color:  rgb(119, 3, 119);
+    font-size: x-large;
+    font-family: sans-serif;
+}
+.text-four{
+    margin-left: 60px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+button{
+    margin-left: 60px;
+    margin-top: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    background: rgb(119, 3, 119);
+    border: none;
+    font-family: sans-serif;
+    border-radius: 4px;
+}
+button:hover{
+    background-color: rgb(182, 20, 182);
+}
+.portfolio{
+    float: right;
+    font-family: cursive; 
+    font-size: xx-large;
+    color: rgb(208, 211, 214);
+    rotate: 270deg ;
+}
+.photo{
+    margin-left: 800px;
+    margin-top: -250px;
+}
+.skills{
+    margin-left: 600px;
+    margin-top: 50px;
+    padding-top: 40px;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.underline{
+    margin-left: 600px;
+}
+.underline-2{
+    margin-left: 615px;
+}
+.summary-head{
+    margin-top: 20px;
+    margin-left: 100px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.circle{
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    background-color: white;
+    border: 1px solid black;
+    margin-top: -160px;
+    margin-left: 1000px;
+}
+.html{
+    margin-top: -170px;
+    margin-left: 900px;
+    color: blue;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+.ninety{
+    margin-top: 30px;
+    margin-left: 900px;
+    color: blue;
+    font-weight: lighter;
+    font-size: xx-large;
+    font-family: sans-serif;
+}
+.circle-1{
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    background-color: white;
+    border: 1px solid black;
+    margin-left: 840px;
+    margin-top: -260px;
+}
+.css{
+    margin-left: 1060px;
+    margin-top: -205px;
+    color: blue;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+.eighty{
+    margin-left: 1050px;
+    margin-top: 35px;
+    color: blue;
+    font-weight: lighter;
+    font-size: xx-large;
+    font-family: sans-serif;
+}
+.java{
+    margin-left: 1050px;
+    margin-top: 90px;
+    color: blue;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+.seventy{
+    margin-left: 1050px;
+    /* margin-top: 150px; */
+    color: blue;
+    margin-top: 50px;
+    font-weight: lighter;
+    font-size: xx-large;
+    font-family: sans-serif;
+}
+.circle-2{
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    background-color: white;
+    border: 1px solid black;
+    margin-left: 990px;
+    margin-top: -250px;
+}
+.cover{
+    background:rgb(11, 11, 102);
+    padding-bottom: 40px;
+    margin-top: -50px;
+    height: 50px;
+}
+.shield{
+    background:  rgb(244, 250, 252);
+    height: 450px;
+    margin-top: -30px;
+}
+.about-me{
+    margin-left: 620px;
+    margin-top: 20px;
+    color: white;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.line{
+    margin-left:610px ;
+}
+.line-1{
+    margin-left: 628px;
+}
+.top{
+    background: rgb(11, 11, 102);
+    height: 80px;
+    padding-top: 40px;
+    margin-top: -50px;
+}
+.story{
+    text-align: center;
+    justify-content: center;
+    text-decoration:underline;
+    margin-top: 30px;
+    font-family:cursive;
+    font-weight: bolder; 
+    color: white;
+}
+.note{
+    font-family:serif;
+    margin-left: 30px;
+    color: white;
+
+}
+.biggest-box{
+        background:  rgb(244, 250, 252);  
+        height: 630px;  
+}
+
+.big-box{
+    border: 2px solid black;
+    background: rgb(11, 11, 102) ;
+    width: 40%;
+    margin-left: 430px;
+    height: 500px;
+    border: none;
+}
+.circle-3{
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    background-color: white;
+    border: 1px solid black;
+    margin-left: 170px;
+}
+.second-photo{
+    margin-top: -180px;
+    margin-left: 174px;
+} 
+.big-project{
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 50px;
+    margin-left: 620px;
+    color: white;
+}
+.on-top{
+    background: rgb(11, 11, 102);
+    height: 110px; 
+    margin-top: -30px;
+    padding-top: 20px;
+}
