@@ -267,3 +267,78 @@ button:hover{
     margin-top: -30px;
     padding-top: 20px;
 }
+.project-filter{
+    margin-left: 600px;
+    margin-top: 20px;
+    padding-top: 20px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+.project-filter span{
+    color: red;
+}
+.sneakers-project{
+    margin-left: 50px;
+    color: purple;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.project{
+    margin-top: 50px;
+    margin-left: 120px;
+    
+}
+.first{
+    margin-left: 880px;
+    margin-top: -20px;
+}
+.blogr{
+    font-family: sans-serif;
+    color: purple;
+    font-size: x-large;
+    font-weight: bolder;
+    text-decoration: underline;
+    margin-left: 70px;
+}
+.project-1{
+    margin-top: 50px;
+    margin-left: 110px;
+}
+.second{
+    margin-left: 870px;
+}
+.easy-banking{
+    margin-left: 90px;
+    color: purple;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.project-2{
+    margin-top: 40px;
+    margin-left: 110px;
+}
+.third{
+    margin-left: 890px;
+}
+.project-body{
+    background:  rgb(244, 250, 252);
+    margin-top: -50px;  
+}
+.my-contacts{
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    margin-left: 590px; 
+    
+}
+.back-up{
+    background:  rgb(244, 250, 252) ;
+    height: 150px; 
+    margin-top: 15px;
+    padding-top: 40px;
+}
